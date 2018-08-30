@@ -31,3 +31,16 @@
 #whiskermenu-window *:not(button){
 	border-color: #2b2e37;
 }
+
+
+
+#whiskermenu-button{
+	color: #bac3cf;
+	font-weight: normal;
+}
+#whiskermenu-button:hover{
+	color: #ffffff;
+}
+#whiskermenu-button:checked{
+	color: #fff;
+}
