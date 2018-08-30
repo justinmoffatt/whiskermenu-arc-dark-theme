@@ -17,6 +17,10 @@
 	background-color: #4084d6;
 	color: #f2f2f2;
 }
+#whiskermenu-window button:focus {
+	background-color: #3f4453;
+	color: #f2f2f2;
+}
 
 /* Make treeview match */
 #whiskermenu-window treeview {
@@ -24,6 +28,10 @@
 	color: #2b2e37;
 }
 #whiskermenu-window treeview:hover {
+	background-color: #3f4453;
+	color: #f2f2f2;
+}
+#whiskermenu-window treeview:selected {
 	background-color: #3f4453;
 	color: #f2f2f2;
 }
